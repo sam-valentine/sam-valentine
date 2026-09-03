@@ -5,9 +5,9 @@ I automate work that people are currently doing by hand.
 My day job is accounts receivable leadership at a title insurance company, where I built the
 automated deposit processing, weekly reporting, leadership dashboards, and failure alerting
 behind a multimillion-dollar receivables operation spanning dozens of branch and agency
-locations. I built all of it without
-administrator access to the ERP, and that constraint shaped how I work: small pieces,
-defensive defaults, and monitoring that stays quiet unless something genuinely needs a person.
+locations. I built all of it without administrator access to the ERP, and that constraint
+shaped how I work: small pieces, defensive defaults, and monitoring that stays quiet unless
+something genuinely needs a person.
 
 The projects here are the other half. Each one is a domain I knew nothing about before
 starting.
